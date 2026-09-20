@@ -52,7 +52,7 @@ The dashboard allows users to explore:
 - Detailed order-level information
 
 
-# This project helped me gain practical experience in Power BI dashboard development, data visualization, KPI creation, interactive filtering, and presenting business data in a clear and structured way.
+This project helped me gain practical experience in Power BI dashboard development, data visualization, KPI creation, interactive filtering, and presenting business data in a clear and structured way.
 
 ## 👤 Author
 
